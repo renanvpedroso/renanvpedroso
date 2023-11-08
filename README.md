@@ -3,7 +3,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="right" height="350" alt="coding-time" src="https://github.com/renanvpedroso/renanvpedroso/blob/main/Skills/Skills.gif">
-  <img align="left" height="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanvpedroso&layout=compact">
+  <img align="left" height="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
     
 
